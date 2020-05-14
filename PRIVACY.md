@@ -18,6 +18,8 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
+The app is used to acquire the facial expression recognition information of the user and change the facial expression of the avatar.
+
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -55,7 +57,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-05-13
+This policy is effective as of 2020-05-1
 
 **Contact Us**
 
