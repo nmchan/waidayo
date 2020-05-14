@@ -18,7 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
-The app is used to acquire the facial expression recognition information of the user and change the facial expression of the avatar.
+The app is used to get the facial expression recognition information of the user and change the facial expression of the avatar. The acquired data will not be provided to a third party.
 
 **Log Data**
 
