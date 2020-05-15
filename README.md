@@ -16,7 +16,7 @@ https://discord.com/invite/GrZWt6U
 - VRMファイルを用意して"default.vrm"とリネームしておく
 - iTunesを使ってiPhoneへVRMファイルを転送する
 https://support.apple.com/ja-jp/HT201301
-- PCのCドライブ直下へ（３）で用意したファイルを置く
+- PCのCドライブ直下へ用意したVRMファイルを置く
     - Macの場合はDocument直下
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞OSC Sending IP Addressから変更できるよ！
