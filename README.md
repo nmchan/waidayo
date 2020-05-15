@@ -5,6 +5,19 @@
 - わからなかったらdiscordの waidayo(face2vmc) チャンネルで質問しよう！
 https://discord.com/invite/GrZWt6U
 
+# なにができるの？
+- waidayoはVRMに対応した3D VTuber向けの新しいキャプチャシステムです。
+- iPhoneで表情をキャプチャし、PCへモーションを転送することができます。ゲーム実況や雑談配信での利用におすすめです。
+- VMC Protocolに対応したオープンなフェイシャルモーションキャプチャーツールです
+
+# 機能
+- アバターの変更
+    - iPhoneへ直接データを転送する方法とVRoid Hubからデータをダウンロードする２つの方法があります。
+- 表情と顔の向きをPCへ送信する：waidayoモード
+    - waidayoとwaidayo for PCだけで配信することができます。
+- 表情のみをPCへ送信する：Face2VMCモード
+    - バーチャルモーションキャプチャーと連携することができます。
+
 # 使い方
 - iPhone版アプリをダウンロードする
     - Apple App Storeからダウンロードしてね
