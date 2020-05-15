@@ -47,3 +47,17 @@ https://discord.com/invite/GrZWt6U
 
 # 補足
 - 本アプリケーションは法人個人を問わず商用利用していただくことが可能です
+
+# 謝辞
+- iPhone版アプリに標準搭載されているアバターはこよりちゃん制作のフィリナちゃんを使用させて頂いています（使用許諾済み）
+    - 気に入ったら買ってね https://nagatorokoyori.booth.pm/items/1577042
+    - こよりちゃん https://twitter.com/Nagatoro_Koyori
+- iPhone版アプリのリリースにあたり協力いただいた方々
+    - あきらさん https://twitter.com/sh_akira
+        - ばもきゃ側のFace2VMCモード対応、アプリリリース作業
+    - せぐふぉさん https://twitter.com/Seg_Faul
+        - 通信処理の大半
+        
+        
+        
+    
