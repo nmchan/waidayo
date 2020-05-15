@@ -6,17 +6,16 @@
 https://discord.com/invite/GrZWt6U
 
 # 使い方
-- iPhone版アプリをダウンロードしよう
+- iPhone版アプリをダウンロードする
     - Apple App Storeからダウンロードしてね
     - リンク
     
-- Windows/Mac版アプリをダウンロードしよう
-    - Boothから落とせるよ
+- Windows/Mac版アプリをダウンロードする
     - https://nmch1222.booth.pm/items/1779185
 
 - VRMファイルを用意して"default.vrm"とリネームしておく
 - iTunesを使ってiPhoneへVRMファイルを転送する
-https://support.apple.com/ja-jp/HT201301
+    - https://support.apple.com/ja-jp/HT201301
 - PCのCドライブ直下へ用意したVRMファイルを置く
     - Macの場合はDocument直下
 - iPhone版アプリへPCのIPアドレスを登録する
@@ -44,3 +43,6 @@ https://support.apple.com/ja-jp/HT201301
 
 # 注意事項
 - waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
+
+# 補足
+- 本アプリケーションは法人個人を問わず商用利用していただくことが可能です
