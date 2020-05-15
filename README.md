@@ -30,7 +30,7 @@ https://support.apple.com/ja-jp/HT201301
     - （Port番号はデフォルトで入っている「39540」でOK）
 
 
-#フェイシャルキャプチャ対象となるBlendshapeProxyを増やす
+# フェイシャルキャプチャ対象となるBlendshapeProxyを増やす
 - waidayoではVRM規格で定義されているBlendshapeに加えて以下が利用可能です
     - EYEBROW_ANGRY　おこり眉（Syncモード）
     - EYEBROW_ANGRY_L　おこり眉L（Separateモード）
@@ -41,5 +41,5 @@ https://support.apple.com/ja-jp/HT201301
     - TONGUE_OUT　舌を出す
     - PUKUU　ほっぺぷくー
 
-#注意事項
+# 注意事項
 - waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
