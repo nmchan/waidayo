@@ -1,3 +1,4 @@
+![waidayo_logo](waidayo_logo.png)
 # はじめに
 - 顔認証機能のついたiPhone/iPadが必要です
 - iPhoneとパソコンは同じネットワークに接続されている必要があります
