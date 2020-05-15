@@ -1,14 +1,15 @@
 ![waidayo_logo](waidayo_logo.png)
 # はじめに
-- 顔認証機能のついたiPhone/iPadが必要です
-- iPhoneとパソコンは同じネットワークに接続されている必要があります
-- わからなかったらdiscordの waidayo(face2vmc) チャンネルで質問しよう！
-https://discord.com/invite/GrZWt6U
-
-# なにができるの？
 - waidayoはVRMに対応した3D VTuber向けの新しいキャプチャシステムです。
-- iPhoneで表情をキャプチャし、PCへモーションを転送することができます。ゲーム実況や雑談配信での利用におすすめです。
+- iPhoneで表情をキャプチャし、PCへモーションを転送することができます。
 - VMC Protocolに対応したオープンなフェイシャルモーションキャプチャーツールです
+- わからないことや要望があれば作者のdiscord、waidayo(face2vmc) チャンネルで質問しよう！
+    - https://discord.com/invite/GrZWt6U
+
+# 必要なもの
+- 顔認証機能のついたiPhone/iPadが必要です
+- iPhoneからの情報を受信するPC（WindowsまたはMac）
+- iPhoneとパソコンは同じネットワークに接続されている必要があります
 
 # 機能
 - アバターの変更
