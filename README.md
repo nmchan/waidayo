@@ -21,7 +21,7 @@ https://support.apple.com/ja-jp/HT201301
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞OSC Sending IP Addressから変更できるよ！
 
-#バーチャルモーションキャプチャーに表情データのみを送る（Face2VMCモード）
+# バーチャルモーションキャプチャーに表情データのみを送る（Face2VMCモード）
 - iPhone版waidayoの設定画面で「Face Only(With VMC)」を選択
 - PC版waidayoの画面を閉じて、ばもきゃを起動（ばもきゃは先行リリース品（支援）の必要あり）
 - ファイヤーウォールの通信確認画面が出た場合は「許可」を押下
