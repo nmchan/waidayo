@@ -55,6 +55,9 @@
     - EYEBROW_SORROW_R　しょんぼり眉R（Separateモード）
     - TONGUE_OUT　舌を出す
     - PUKUU　ほっぺぷくー
+    
+- 舌を出す、ほっぺぷくーは別の表情のトリガーとして使うことも可能です
+    - 例）BlendshapeProxyの"PUKUU"に「＞＜」や「白目」を登録する
 
 # 注意事項
 - waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
