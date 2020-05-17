@@ -1,6 +1,7 @@
 ![waidayo_logo](waidayo_logo.png)
 # はじめに
 - waidayoはVRMに対応した3D VTuber向けの新しいキャプチャシステムです。
+    - waidayoは2020年1月にβリリース。前身のFace2VMCは2019年11月にリリースされました。
 - iPhoneで表情をキャプチャし、PCへモーションを転送することができます。
 - VMC Protocolに対応したオープンなフェイシャルモーションキャプチャーツールです
 - わからないことや要望があれば作者のdiscord、waidayo(face2vmc) チャンネルで質問しよう！
