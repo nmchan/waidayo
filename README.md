@@ -84,6 +84,9 @@
     - せぐふぉさん https://twitter.com/Seg_Faul
         - 通信処理の大半
         
-        
-        
+# 作者について
+- waidayoの利用者はぜひフォローしてね
+   - Twitter https://twitter.com/nmch1222
+   - YouTube https://www.youtube.com/c/nmch1222
+   - FANBOX https://nmch1222.fanbox.cc/
     
