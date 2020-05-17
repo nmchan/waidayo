@@ -62,6 +62,15 @@
 # 注意事項
 - waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
 
+# おすすめのスマホ固定具
+- waidayoモード
+    - Lightning端子が同時に使えるようにスリットが開いているスタンドがおすすめです
+    - https://www.amazon.co.jp/dp/B082K51CP5/ref=cm_sw_r_tw_dp_U_x_KNtWEb5G3KS1G
+
+- Face2VMCモード
+    - ネックホルダー型のものがおすすめです
+    - https://www.amazon.co.jp/dp/B07MLQ7XSR/ref=cm_sw_r_tw_dp_U_x_7ItWEbXKR67ZR
+
 # 補足
 - 本アプリケーションは個人法人を問わず無償で商用利用していただくことが可能です
 
