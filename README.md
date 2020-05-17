@@ -23,7 +23,8 @@
 # 使い方
 - iPhone版アプリをダウンロードする
     - Apple App Storeからダウンロードしてね
-    - リンク
+    - リンク　近日配布予定（メタデータ修正中）
+    - 急ぎの方はdiscordでβテスターとして登録します
     
 - Windows/Mac版アプリをダウンロードする
     - https://nmch1222.booth.pm/items/1779185
