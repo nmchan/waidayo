@@ -1,8 +1,8 @@
 ![waidayo_logo](waidayo_logo.png)
 # はじめに
-- waidayoはVRMに対応した3D VTuber向けの新しいキャプチャシステムです。
+- waidayoはVRMに対応した3D VTuber向けのフェイシャルモーションキャプチャシステムです。
 - iPhoneで表情をキャプチャし、PCへモーションを転送することができます。
-- VMC Protocolに対応したオープンなフェイシャルモーションキャプチャーツールです
+- VMC Protocolに対応したオープンなフェイシャルモーションキャプチャーツールです。
 - わからないことや要望があれば作者のdiscord、waidayo(face2vmc) チャンネルで質問しよう！
     - https://discord.com/invite/GrZWt6U
 
