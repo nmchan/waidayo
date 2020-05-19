@@ -43,7 +43,7 @@
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞Send Motion IP Addressから変更できるよ！
 
-# バーチャルモーションキャプチャーに表情データのみを送る（Face2VMCモード）
+# 使い方（バーチャルモーションキャプチャーと連携する）
 - iPhone版waidayoの設定画面で「Face Only(With VMC)」を選択
 - PC版waidayoの画面を閉じて、ばもきゃを起動（ばもきゃは先行リリース品（FANBOXで300円以上の支援）が必要）
     - https://akira.fanbox.cc/
