@@ -41,7 +41,7 @@
 - PCのCドライブ直下へ用意したVRMファイルを置く
     - Macの場合はDocument直下
 - iPhone版アプリへPCのIPアドレスを登録する
-    - 設定＞OSC Sending IP Addressから変更できるよ！
+    - 設定＞Send Motion IP Addressから変更できるよ！
 
 # バーチャルモーションキャプチャーに表情データのみを送る（Face2VMCモード）
 - iPhone版waidayoの設定画面で「Face Only(With VMC)」を選択
