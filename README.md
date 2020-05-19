@@ -26,7 +26,7 @@
 - 表情のみをPCへ送信する：Face2VMCモード
     - バーチャルモーションキャプチャーと連携することができます。
 
-# 使い方
+# 使い方（手持ちのVRMファイルを利用）
 - iPhone版アプリをダウンロードする
     - Apple App Storeからダウンロードしてね
     - リンク　近日配布予定（メタデータ修正中）
@@ -69,7 +69,10 @@
 
 # 注意事項
 - waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
-- iPhone版とPC版で同じボーン構造、ブレンドシェイプ情報を持つモデルデータを使う必要があります（＝PC側はどれだけ魔改造しても良い）
+- iPhone版とPC版で同じボーン構造、ブレンドシェイプ情報を持つモデルデータを使う必要があります
+    - ＝PC側はどれだけ魔改造しても良い（HDRP対応やVRM標準外シェーダーの適用など）
+- VRMファイルをインポートした場合、常に最優先で表示されます。
+    - アプリ内蔵アバター、VRoid Hub連携機能でロードしたアバターはアプリケーション保持されません。
 
 # おすすめのスマホ固定具
 - waidayoモード
@@ -87,6 +90,7 @@
 - モデルリスト（AppStore審査暫定対応のため簡易的な表示になっています）
     - 現在の実装：アプリ起動時にdefault.vrmを検出した場合は優先表示
     - アップデート予定：複数のVRMに対応
+- エモート機能
 
 # 謝辞
 - iPhone版アプリに標準搭載のアバターはこよりちゃん制作のフィリナちゃんを使用させて頂いています（使用許諾済み）
@@ -101,8 +105,7 @@
         - 通信処理の大半
         
 # 作者について
-- waidayoの利用者はぜひフォローしてね
-   - Twitter https://twitter.com/nmch1222
-   - YouTube https://www.youtube.com/c/nmch1222
-   - FANBOX https://nmch1222.fanbox.cc/
+- Twitter https://twitter.com/nmch1222
+- YouTube https://www.youtube.com/c/nmch1222
+- FANBOX https://nmch1222.fanbox.cc/
     
