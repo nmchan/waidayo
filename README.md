@@ -87,6 +87,8 @@
 - iPhone版アプリに標準搭載のアバターはこよりちゃん制作のフィリナちゃんを使用させて頂いています（使用許諾済み）
     - 気に入ったら買ってね https://nagatorokoyori.booth.pm/items/1577042
     - こよりちゃん https://twitter.com/Nagatoro_Koyori
+- iPhone版アプリに標準搭載の切替用アバターはVRoidサンプルモデルを使用させて頂いています（CC0）
+    - ViVi紹介ページ https://vroid.pixiv.help/hc/ja/articles/360014900273-%E3%83%93%E3%83%93-Vivi
 - iPhone版アプリのリリースにあたり協力いただいた方々
     - あきらさん https://twitter.com/sh_akira
         - ばもきゃ側のFace2VMCモード対応、アプリリリース作業
