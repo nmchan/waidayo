@@ -31,13 +31,13 @@
     - ![waidayo_qr](waidayo_qr.png)
     - https://apps.apple.com/jp/app/waidayo/id1513166077
     
-- Windows/Mac版アプリをダウンロードする
+- waidayo for PC (Windows/Mac版アプリ)をダウンロードする
     - https://nmch1222.booth.pm/items/1779185
 
 - VRMファイルを用意して"default.vrm"とリネームしておく
 - iTunesを使ってiPhoneへVRMファイルを転送する
     - https://support.apple.com/ja-jp/HT201301
-- PCのCドライブ直下へ用意したVRMファイルを置く
+- waidayo for PCの実行ファイルと同じ場所（またはCドライブ直下）へ用意したVRMファイルを置く
     - Macの場合はDocument直下
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞Send Motion IP Addressから変更できるよ！
