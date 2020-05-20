@@ -28,7 +28,7 @@
 
 # 使い方（手持ちのVRMファイルを利用）
 - iPhone版アプリをダウンロードする
-![waidayo_qr](waidayo_qr.png)
+    - ![waidayo_qr](waidayo_qr.png)
     - https://apps.apple.com/jp/app/waidayo/id1513166077
     
 - Windows/Mac版アプリをダウンロードする
