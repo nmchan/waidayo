@@ -75,8 +75,8 @@
 
 # おすすめのスマホ固定具
 - waidayoモード
-    - Lightning端子が同時に使えるようにスリットが開いているスタンドがおすすめです
-    - https://www.amazon.co.jp/dp/B082K51CP5/ref=cm_sw_r_tw_dp_U_x_KNtWEb5G3KS1G
+    - 同時に充電できるようにスリットが開いているスタンドがおすすめです
+    - https://www.amazon.co.jp/dp/B07YZ9F1WV/ref=cm_sw_r_tw_dp_U_x_.ujXEb7EH5BG9
 
 - Face2VMCモード
     - ネックホルダー型のものがおすすめです
