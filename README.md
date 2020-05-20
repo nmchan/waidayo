@@ -28,9 +28,8 @@
 
 # 使い方（手持ちのVRMファイルを利用）
 - iPhone版アプリをダウンロードする
-    - Apple App Storeからダウンロードしてね
-    - リンク　近日配布予定（メタデータ修正中）
-    - 急ぎの方はdiscordでβテスターとして登録します
+![waidayo_qr](waidayo_qr.png)
+    - https://apps.apple.com/jp/app/waidayo/id1513166077
     
 - Windows/Mac版アプリをダウンロードする
     - https://nmch1222.booth.pm/items/1779185
