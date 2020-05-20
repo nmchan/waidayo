@@ -93,6 +93,9 @@
 - 目がプルプルする等うまく動かない、停止しない
     - Eye TrackingはON、Eye Traking Offset を0にする
     - https://twitter.com/nmch1222/status/1262977166657990659
+- 髪の毛が緑色なんだけどwaidayo for PCの背景色を変えられるようにしてほしい
+    - EVMC4Uで独自の配信環境を作成することができます
+    - https://twitter.com/Seg_Faul/status/1263002762410770433
 
 # 謝辞
 - iPhone版アプリに標準搭載のアバターはこよりちゃん制作のフィリナちゃんを使用させて頂いています（使用許諾済み）
