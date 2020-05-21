@@ -42,44 +42,8 @@
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞Send Motion IP Addressから変更できるよ！
 
-# 使い方（バーチャルモーションキャプチャーと連携する）
-- iPhone版waidayoの設定画面で「Face Only(With VMC)」を選択
-- PC版waidayoの画面を閉じて、ばもきゃを起動（ばもきゃは先行リリース品（FANBOXで300円以上の支援）が必要）
-    - https://akira.fanbox.cc/
-- ファイヤーウォールの通信確認画面が出た場合は「許可」を押下
-- ばもきゃのコントロールパネルにて「詳細設定」を押し詳細設定画面を開く
-- 設定画面が出たら「外部からのモーション受信を有効にする」にチェックを入れて「適用」ボタンを押す。
-    - （Port番号はデフォルトで入っている「39540」でOK）
-
-# フェイシャルキャプチャ対象となるBlendshapeProxyを増やす
-- waidayoではVRM規格で定義されているBlendshapeに加えて以下が利用可能です
-    - EYEBROW_ANGRY　おこり眉（Syncモード）
-    - EYEBROW_ANGRY_L　おこり眉L（Separateモード）
-    - EYEBROW_ANGRY_R　おこり眉R（Separateモード）
-    - EYEBROW_SORROW　しょんぼり眉（Syncモード）
-    - EYEBROW_SORROW_L　しょんぼり眉L（Separateモード）
-    - EYEBROW_SORROW_R　しょんぼり眉R（Separateモード）
-    - TONGUE_OUT　舌を出す
-    - PUKUU　ほっぺぷくー
-    
-- 舌を出す、ほっぺぷくーは別の表情のトリガーとして使うことも可能です
-    - 例）BlendshapeProxyの"PUKUU"に「＞＜」や「白目」を登録する
-
-# 注意事項
-- waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
-- iPhone版とPC版で同じボーン構造、ブレンドシェイプ情報を持つモデルデータを使う必要があります
-    - ＝PC側はどれだけ魔改造しても良い（HDRP対応やVRM標準外シェーダーの適用など）
-- VRMファイルをインポートした場合、常に最優先で表示されます。
-    - アプリ内蔵アバター、VRoid Hub連携機能でロードしたアバターは再起動時に保持されません。
-
-# おすすめのスマホ固定具
-- waidayoモード
-    - 同時に充電できるようにスリットが開いているスタンドがおすすめです
-    - https://www.amazon.co.jp/dp/B07YZ9F1WV/ref=cm_sw_r_tw_dp_U_x_.ujXEb7EH5BG9
-
-- Face2VMCモード
-    - ネックホルダー型のものがおすすめです
-    - https://www.amazon.co.jp/dp/B07MLQ7XSR/ref=cm_sw_r_tw_dp_U_x_7ItWEbXKR67ZR
+- 応用的な使い方や注意事項はwikiを見てね（更新してくれたみんなありがとう！！！）
+    - https://github.com/nmchan/waidayo/wiki
     
 # 今後のアップデート予定
 - モデルリスト（AppStore審査暫定対応のため簡易的な表示になっています）
@@ -93,14 +57,6 @@
 - 【修正済み　次回リリース】アイトラッキングオフ時の挙動修正
 - Head Offsetが正しく反映されない問題の修正（設定項目を削除、後日リセットボタンを新設）
 - 基準点リセットボタンを追加
-
-# トラブルシューティング
-- 目がプルプルする等うまく動かない、停止しない
-    - Eye TrackingはON、Eye Traking Offset を0にする
-    - https://twitter.com/nmch1222/status/1262977166657990659
-- 髪の毛が緑色なんだけどwaidayo for PCの背景色を変えられるようにしてほしい
-    - EVMC4Uで独自の配信環境を作成することができます
-    - https://twitter.com/Seg_Faul/status/1263002762410770433
 
 # 謝辞
 - iPhone版アプリに標準搭載のアバターはこよりちゃん制作のフィリナちゃんを使用させて頂いています（使用許諾済み）
