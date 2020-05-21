@@ -42,8 +42,8 @@
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞Send Motion IP Addressから変更できるよ！
 
-- 応用的な使い方や注意事項はwikiを見てね（更新してくれたみんなありがとう！！！）
-    - https://github.com/nmchan/waidayo/wiki
+# 応用的な使い方や注意事項はwikiを見てね（更新してくれたみんなありがとう！！！）
+- https://github.com/nmchan/waidayo/wiki
     
 # 今後のアップデート予定
 - モデルリスト（AppStore審査暫定対応のため簡易的な表示になっています）
