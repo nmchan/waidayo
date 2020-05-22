@@ -18,7 +18,8 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
-The app is used to get the regarding face data of the user and change the facial expression of the avatar. 
+This app uses the TrueDepth API to keep track of your facial expressions while the app is running.
+The tracked information is displayed in conjunction with the facial expression animation registered on the avatar.
 The acquired data will not be sharing and use ,retention of face data ,collection ,disclosure ,Resources ,retention of face data to a third party.
 
 **Log Data**
