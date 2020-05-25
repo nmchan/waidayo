@@ -37,10 +37,13 @@
 - VRMファイルを用意して"default.vrm"とリネームしておく
 - iTunesを使ってiPhoneへVRMファイルを転送する
     - https://support.apple.com/ja-jp/HT201301
-- Cドライブ直下へ用意したVRMファイルを置く
-    - Macの場合はDocument直下
+- Cドライブ直下（またはプログラムと同じフォルダ）へ用意したVRMファイルを置く
+    - Macの場合はDocument直下のみ
 - iPhone版アプリへPCのIPアドレスを登録する
     - 設定＞Send Motion IP Addressから変更できるよ！
+    
+- 補足）アンチエイリアス処理の設定を変更できるよ
+     - キーボード上部の数字キー(0,2,4,8)を押すと切り替わります
 
 # 応用的な使い方や注意事項はwikiを見てね
 - https://github.com/nmchan/waidayo/wiki
