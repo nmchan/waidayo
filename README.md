@@ -35,6 +35,7 @@
     - https://nmch1222.booth.pm/items/1779185
 
 - VRMファイルを用意して"default.vrm"とリネームしておく
+    - 使用するVRMファイルの使用許諾についてよく確認し、自己責任でご利用ください
 - iTunesを使ってiPhoneへVRMファイルを転送する
     - https://support.apple.com/ja-jp/HT201301
 - Cドライブ直下（またはプログラムと同じフォルダ）へ用意したVRMファイルを置く
