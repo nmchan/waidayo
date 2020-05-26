@@ -90,6 +90,6 @@
 - YouTube https://www.youtube.com/c/nmch1222
 - FANBOX https://nmch1222.fanbox.cc/
 - 干芋 https://www.amazon.jp/hz/wishlist/ls/2YH7VGKBX5U3C?ref_=wl_share
-        - waidayoの開発はみなさまの反応が原動力です
-        - もしよければ作者SNSの登録やFANBOX、干芋などご支援いただけますと嬉しいです
+    - waidayoの開発はみなさまの反応が原動力です
+    - もしよければ作者SNSの登録やFANBOX、干芋などご支援いただけますと嬉しいです
     
