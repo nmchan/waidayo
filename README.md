@@ -1,4 +1,9 @@
 ![waidayo_logo](waidayo_logo.png)
+
+
+# 使い方はwikiのほうが詳しくかいてあるよ！
+# https://github.com/nmchan/waidayo/wiki
+
 # はじめに
 - waidayoはVRMに対応した3D VTuber向けのフェイシャルモーションキャプチャシステムです。
 - iPhoneで表情をキャプチャし、PCへモーションを転送することができます。
@@ -45,10 +50,6 @@
     
 - 補足）アンチエイリアス処理の設定を変更できるよ
      - キーボード上部の数字キー(0,2,4,8)を押すと切り替わります
-
-# 応用的な使い方や注意事項はwikiを見てね
-- https://github.com/nmchan/waidayo/wiki
-- （更新ありがとう！！！！）
     
 # 今後のアップデート予定
 - モデルリスト（AppStore審査暫定対応のため簡易的な表示になっています）
