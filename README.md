@@ -1,8 +1,7 @@
 ![waidayo_logo](waidayo_logo.png)
 
 
-# 使い方はwikiのほうが詳しくかいてあるよ！
-# https://github.com/nmchan/waidayo/wiki
+# [使い方はwikiのほうが詳しいよ！](https://github.com/nmchan/waidayo/wiki)
 
 # はじめに
 - waidayoはVRMに対応した3D VTuber向けのフェイシャルモーションキャプチャシステムです。
