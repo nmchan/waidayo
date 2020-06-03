@@ -90,6 +90,15 @@
     - せぐふぉさん https://twitter.com/Seg_Faul
         - 通信処理の大半
         
+# 注意事項
+- waidayoではVRMの作成に利用するUniVRMはVersion0.53の利用を推奨しています
+    - 0.55などでは表情や目の動きがおかしくなることがあります。 
+- iPhone版とPC版で同じボーン構造、ブレンドシェイプ情報を持つモデルデータを使う必要があります
+    - ＝PC側はどれだけ魔改造してもOK（HDRP対応やVRM標準外シェーダーの適用など）
+- VRMファイルをインポートした場合、常に最優先で表示されます。
+    - アプリ内蔵アバター、VRoid Hub連携機能でロードしたアバターは再起動時に保持されません。
+- waidayoを有償頒布ソフトの機能として利用する場合は個別に相談お願いいたします。
+        
 # 作者について
 - Twitter https://twitter.com/nmch1222
 - YouTube https://www.youtube.com/c/nmch1222
