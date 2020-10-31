@@ -11,7 +11,7 @@
     - https://discord.com/invite/GrZWt6U
 
 # 必要なもの
-- 顔認証機能のついたiPhone/iPad
+- A12 Bionic以降のチップが搭載されたiPhone/iPad（SE2でも動くよ！！！）
 - iPhoneからの情報を受信するPC（WindowsまたはMac）
 - iPhoneとパソコンは同じネットワークに接続されている必要があります
 
