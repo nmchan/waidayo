@@ -1,5 +1,6 @@
 ![waidayo_logo](waidayo_logo_v3_pr.png)
 
+# Support for this application is only on discord. Only Japanese is supported.
 
 # [使い方はwikiのほうが詳しいよ！](https://github.com/nmchan/waidayo/wiki)
 
