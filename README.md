@@ -1,6 +1,7 @@
 ![waidayo_logo](waidayo_logo_v3_pr.png)
 
-# Support is discord only and Japanese only.
+# Support is discord only.
+    - https://discord.com/invite/GrZWt6U
 
 # [使い方はwikiのほうが詳しいよ！](https://github.com/nmchan/waidayo/wiki)
 
@@ -123,6 +124,7 @@
 - Twitter https://twitter.com/nmch1222
 - YouTube https://www.youtube.com/c/nmch1222
 - FANBOX https://nmch1222.fanbox.cc/
+- Patreon https://www.patreon.com/nmch1222?fan_landing=true
 - 干芋 https://www.amazon.jp/hz/wishlist/ls/2YH7VGKBX5U3C?ref_=wl_share
     - waidayoの開発はみなさまの反応が原動力です
     - もしよければ作者SNSの登録やFANBOX、干芋などご支援いただけますと嬉しいです
