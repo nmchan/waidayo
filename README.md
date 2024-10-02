@@ -1,4 +1,4 @@
-![waidayo_logo](waidayo_logo_v3_pr.png)
+![waidayo_logo](waidayo_logo_v3.png)
 
 # [Support is discord only!](https://discord.com/invite/GrZWt6U)
 
