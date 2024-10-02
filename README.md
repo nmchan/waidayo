@@ -134,16 +134,12 @@
     - 初版
 
 # 謝辞/Acknowledgements
-- iOSアプリに標準搭載のアバターはこよりちゃん制作のフィリナちゃんを使用させて頂いています（使用許諾済み）
+- iOSアプリに標準搭載のアバターはこよりちゃん制作のあのんちゃんを使用させて頂いています（使用許諾済み）
 - The standard avatar for the iOS app is Filina, created by Koyori-chan (licensed for use).
     - 気に入ったら買ってね/Please buy it if you like it.
-    - https://nagatorokoyori.booth.pm/items/1577042
+    - [https://nagatorokoyori.booth.pm/items/1577042](https://booth.pm/ja/items/3564947)
     - こよりちゃん/Koyori-chan
     - https://twitter.com/Nagatoro_Koyori
-- iOSアプリに標準搭載の切替用アバターはVRoidサンプルモデルのViviちゃんを使用させて頂いています（CC0）
-- Vivi, a VRoid sample model, is used as the standard avatar for switching in the iOS app (CC0).
-    - Vivi紹介ページ/Vivi introduction page
-    - https://vroid.pixiv.help/hc/ja/articles/360014900273-%E3%83%93%E3%83%93-Vivi
 - iOSアプリのリリースにあたり協力いただいた方々
 - People who helped us with the release of the iOS app
     - あきらさん/Akira-san
