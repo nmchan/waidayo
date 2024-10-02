@@ -49,8 +49,8 @@
 # 機能/Function
 - アバターの変更
 - Changing your avatar
-    - iPhoneへ直接データを転送する方法とVRoid Hub、DMM VR Connectからデータをダウンロードする２つの方法があります。
-    - There are two ways to transfer the data directly to your iPhone or download the data from VRoid Hub or DMM VR Connect.
+    - iPhoneへ直接データを転送する方法とVRoid Hubからダウンロードする２つの方法があります。
+    - There are two ways to transfer the data directly to your iPhone or download the data from VRoid Hub.
 - 表情と顔の向きをPCへ送信する：waidayoモード
 - Sending facial expressions and face orientation to PC: waidayo mode
     - waidayoとwaidayo for PCを組み合わせることで配信することができます。
@@ -158,8 +158,8 @@
     - This means that any changes can be made to the avatar displayed on the PC side (e.g., HDRP support, non-standard VRM shaders).
 - VRMファイルをインポートした場合、常に最優先で表示されます。
 - When a VRM file is imported, it is always given the highest priority.
-    - アプリ内蔵アバター、VRoid Hub/DMM VR Connect連携機能でロードしたアバターは再起動時に保持されません。
-    - The built-in avatars of the application and the avatars loaded by the VRoid Hub/DMM VR Connect collaboration function are not retained when the application is restarted.
+    - アプリ内蔵アバター、VRoid Hub連携機能でロードしたアバターは再起動時に保持されません。
+    - The built-in avatars of the application and the avatars loaded by the VRoid Hub collaboration function are not retained when the application is restarted.
 - waidayoを有償頒布ソフトの機能として利用する場合は個別に相談お願いいたします。
 - Please consult with us individually if you want to use waidayo as a function of the software to be distributed for a fee.
 - 
